@@ -1,3 +1,6 @@
 [submodule "OS/mirage"]
 	path = OS/mirage
 	url = https://github.com/Sh0g0-1758/mirage.git
+[submodule "Compiler/scarlet"]
+	path = Compiler/scarlet
+	url = https://github.com/Sh0g0-1758/scarlet.git
