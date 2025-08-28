@@ -7,3 +7,6 @@
 [submodule "Assembler/SIC-XE-Assembler"]
 	path = Assembler/SIC-XE-Assembler
 	url = https://github.com/Sh0g0-1758/SIC-XE-Assembler.git
+[submodule "VirtualMachine/RISCV-VM"]
+	path = VirtualMachine/RISCV-VM
+	url = https://github.com/Sh0g0-1758/RISCV-Instruction-simulator.git
