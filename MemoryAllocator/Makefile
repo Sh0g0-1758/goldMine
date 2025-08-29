@@ -5,5 +5,9 @@ test: build
 	gcc test.c -o test
 	LD_PRELOAD=$(PWD)/memalloc.so ./test
 
+arena:
+	g++ arena.cc -o arena
+	./arena
+
 clean:
-	rm memalloc.so test
+	rm memalloc.so test arena
